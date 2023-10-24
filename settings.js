@@ -1,12 +1,12 @@
 const fs = require('fs')
 
 global.creator = 'Zeeoneofc'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb://atlas-sql-6537091139804425470a2e53-ofb3r.a.query.mongodb.net/myVirtualDatabase?ssl=true&authSource=admin" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
+global.your_email = "troycloudhost@gmail.com" //email
+global.email_password = "gwtampan#123" //application password email
 global.limitCount = 10000
-global.YUOR_PORT = 8000
+global.YUOR_PORT = 8080
 global.loghandler = {
 	noapikey:{
 		status: 403,
