@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Troy'// yourname
-global.MONGO_DB_URI = "mongodb+srv://jarvis:op@cluster0.7tisvwv.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://jaaxcomot13:3lqNfb0r5bMAvQ0g@cluster0.tdmehd7.mongodb.net/" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "govurgg@gmail.com" //email
 global.email_password = "zlfj yyzb jyol ajez" //application password email
